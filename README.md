@@ -1,1 +1,1 @@
-# Manikanta-ecommerce-store dashboard creation using power BI
+# Ecommerce-store dashboard creation using power BI
